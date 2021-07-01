@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/KangsiTanting/Karl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 [这是一个超链接测试](https://lgvying.github.io/test.html)
-[java基础笔记](https://lgvying.github.io/javaSE笔记.md)
+[java基础笔记](https://lgvying.github.io/javaSE.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
