@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/KangsiTanting/Karl.github.
 
 [java基础笔记](https://lgvying.github.io/javaSE.md)
 
+[java基础笔记2](https://lgvying.github.io/javaSE.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
