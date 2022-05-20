@@ -2,12 +2,11 @@
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
-
 # Site
 title: NexT
 subtitle:
-description:
-author: John Doe
+description: 这是我个人的学习日志，随便做点笔记。
+author: 梁小鸭
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -232,8 +231,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
+#in directory: /assets/images/avatar.jpg
+avatar: /avatar.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -393,11 +392,11 @@ wildfire:
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
   useDev: true
-  version: 0.5.6 
+  version: 0.5.6
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
-    apiKey: 
+    apiKey:
     authDomain:
     databaseURL:
     projectId:
@@ -408,8 +407,8 @@ wildfire:
   # other configs
   theme: light # or dark
   locale: en # or other locales, e.g. zh-CN
-  defaultAvatarURL: 
-# Any question? 
+  defaultAvatarURL:
+# Any question?
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues
 # </wildfire>
 
