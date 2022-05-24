@@ -119,14 +119,14 @@ menu:
   home: /
   # 分类
   categories: /categories/
-  about: /about/
+  #about: /about/
   # 档案管理
   archives: /archives/
   # 标签
   tags: /tags/
   # 网站地图
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
